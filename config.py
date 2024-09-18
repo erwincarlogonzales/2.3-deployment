@@ -4,4 +4,4 @@ MODEL_DEC_TREE_PATH = 'models/dec_tree.joblib'
 DATA_PATH = 'data/app_flight_df.csv'
 
 # Other settings
-LIME_NUM_FEATURES = 5 # Display number of features
+LIME_NUM_FEATURES = 5
